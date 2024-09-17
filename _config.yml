@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yibeijiu / 土木岛"
+title                    : "Every man has his value"
 title_separator          : "-"
 name                     : &name "Yibeijiu"
 description              : &description "personal description"
@@ -27,16 +27,16 @@ author:
   bio              : "Student"
   location         : "Shenzhen"
   employer         : "** University"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : "https://zpy1160390580.github.io/"
+  email            : "zpy1160390580@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=zRlNNKIAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  orcid            : "https://orcid.org/0000-0002-0397-8819"
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Peiyun-Zhang-5"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
